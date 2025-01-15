@@ -11,7 +11,7 @@ builder.Services.AddSwaggerGen(options =>
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Version = "v1",
-        Title = "Fruit API",
+        Title = "Fruit API by Washim Akram",
         Description = "API for managing a list of fruit and their stock status.",
     });
 });
